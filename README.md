@@ -56,6 +56,7 @@ customer-churn-predictor/
 ├── requirements.txt            # Python dependencies
 ├── .gitignore                  # Git untracked patterns
 └── README.md                   # Project documentation
+```
 
 ## How To Run Locally
 1. Clone the Repository
