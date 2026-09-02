@@ -1,0 +1,13 @@
+# Python environment and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data files (keep repos light)
+data/*.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
